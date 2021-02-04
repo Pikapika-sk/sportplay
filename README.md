@@ -1,5 +1,5 @@
 # sportplay
-
+# 前端
 ## Project setup
 ```
 npm install
@@ -17,3 +17,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# 后端
+位于 sprintboot+mysql文件夹中
