@@ -4,3 +4,14 @@ HTML,body,#app{
   margin:0;
   padding: 0;
 }
+
+/* 卡片区域 !important提高样式级别 */
+.el-card{
+  box-shadow: 0 1px 1px rgba(0, 8,10, 0.75) !important;
+}
+/*表格样式 */
+.el-table{
+  margin-top: 15px;
+  font-size:15px;
+  min-width: 350px;
+}
